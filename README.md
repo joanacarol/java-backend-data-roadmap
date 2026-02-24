@@ -1,3 +1,5 @@
+> ⚠ Projeto em desenvolvimento ativo.
+
 # Java Backend Roadmap
 
 Repositório de estudos e projetos focado em **Backend Java com dados**,
